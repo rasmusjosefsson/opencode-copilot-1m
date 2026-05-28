@@ -8,6 +8,7 @@ Without this plugin, Copilot can expose smaller client-side limits than you want
 
 - Claude Opus 4.6
 - Claude Opus 4.7
+- Claude Opus 4.8
 - Claude Sonnet 4.6
 - GPT-5.4
 - GPT-5.5
@@ -22,7 +23,7 @@ Add to your `opencode.json`:
 }
 ```
 
-Restart OpenCode. You'll see new model entries like "Claude Opus 4.7 (1M)", "GPT-5.4 (1M)" and "GPT-5.5 (1M)" alongside the originals.
+Restart OpenCode. You'll see new model entries like "Claude Opus 4.8 (1M)", "GPT-5.4 (1M)" and "GPT-5.5 (1M)" alongside the originals.
 
 ## Recommended: set reasoning effort
 

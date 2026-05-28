@@ -1,6 +1,6 @@
 {
   "name": "opencode-copilot-1m",
-  "version": "1.9.1",
+  "version": "1.10.0",
   "description": "OpenCode plugin to add long-context Claude and GPT-5 variants via GitHub Copilot",
   "type": "module",
   "main": "./dist/index.js",

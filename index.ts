@@ -14,6 +14,12 @@ const MODEL_VARIANTS = [
     limit: { context: 1000000, input: 900000 },
   },
   {
+    baseID: "claude-opus-4.8",
+    variantID: "claude-opus-4.8-1m",
+    preserveExisting: false,
+    limit: { context: 1000000, input: 900000 },
+  },
+  {
     baseID: "claude-sonnet-4.6",
     variantID: "claude-sonnet-4.6-1m",
     preserveExisting: false,
